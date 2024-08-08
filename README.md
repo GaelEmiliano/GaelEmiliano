@@ -1,6 +1,6 @@
-### Student of computer science
+### Is not a good README
 
-There are more problems than solutions
+Hello there, I'm Gael Emiliano. I am a Computer Science student, with a particular interest in logic.
 <!--
 **GaelEmiliano/GaelEmiliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
