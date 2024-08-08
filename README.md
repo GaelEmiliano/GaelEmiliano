@@ -1,5 +1,6 @@
-## Hi there 👋
+### Student of computer science
 
+There are more problems than solutions
 <!--
 **GaelEmiliano/GaelEmiliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
