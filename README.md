@@ -1,7 +1,6 @@
 ### Is not a good README
 
-Hello there, I'm Gael Emiliano. I am a Computer Science student, with a particular interest in logic. 
-I think if I have got documentation, a compiler or interpreter I am going to learn that language.
+Hello there, I'm Gael Emiliano. I am a Computer Science student, with a particular interest in logic.
 <!--
 **GaelEmiliano/GaelEmiliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
