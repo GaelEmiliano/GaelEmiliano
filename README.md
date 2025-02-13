@@ -1,6 +1,9 @@
-### Is not a good README
+### I don't have much
 
-Hello there, I'm Gael Emiliano. I am a Computer Science student.
+## Instead of reading the README, check out my code to get to know me better
+
+***What I cannot create, I do not understand***
+- ***Richard Feynman***.
 <!--
 **GaelEmiliano/GaelEmiliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
